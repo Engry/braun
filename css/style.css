@@ -176,7 +176,7 @@ body {
 	padding: 5px 5px 29px;
 }
 #body > ul li > a:hover {
-	opacity: 0.5;
+	opacity: 0.3;
 }
 #body > ul li > a img {
 	border: 0;
